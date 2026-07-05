@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/project_poster.png" alt="ParsiCoverTitle-VLM project poster" width="760">
+</p>
+
+<br>
+
 # 🟦 ParsiCoverTitle-VLM
 
 **Fine-Tuning Qwen2.5-VL and Gemma 3 for Persian Book Cover Title Recognition**
