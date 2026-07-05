@@ -1,0 +1,12 @@
+unsloth
+transformers>=4.56.2
+trl>=0.22.2
+datasets
+accelerate
+bitsandbytes
+peft
+python-Levenshtein
+pandas
+matplotlib
+Pillow
+tqdm
