@@ -75,9 +75,9 @@ The test split remained untouched until final evaluation. Both model families us
 ├── ParsiCoverTitle_VLM_GitHub_Ready.ipynb
 ├── README.md
 ├── requirements.txt
-├── Professor_Report_FA.md
 └── assets/
-    └── final_test_metrics_compact_soft.png
+    ├── final_test_metrics_compact_soft.png
+    └── project_poster.png
 ```
 
 ## Reproduction
